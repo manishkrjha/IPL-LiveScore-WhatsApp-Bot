@@ -31,7 +31,7 @@ app.post('/score', (req, res)=>{
     const twiml = new MessagingResponse();
     console.log(`This is called`);
 
-    const msg = twiml.message(`Test-mode: ${respo}`);
+    const msg = twiml.message(`${respo}`);
 
     res.writeHead(200, {'Content-Type': 'text/xml'});
     res.end(twiml.toString());

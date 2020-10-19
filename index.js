@@ -20,7 +20,7 @@ setTimeout(()=>{
 }, 3500);
 
 app.get('/', (req, res)=>{
-    res.send(`Sample response :: ${respo}`);
+    res.send(`Sample response :: ${respo}. Do visit README.md for instructions`);
 });
 
 

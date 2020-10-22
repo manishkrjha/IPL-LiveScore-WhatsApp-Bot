@@ -9,7 +9,7 @@
 #### On WhatsApp:
 
 - Text `join settle-welcome`
-> You'll recieve a comfirmation text.
+> You'll recieve a confirmation text.
 
 - Text ***anything*** (e.g. `score`).
 > It will return ***live score updates*** of the ongoing match.

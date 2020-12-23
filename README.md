@@ -13,3 +13,6 @@
 
 - Text ***anything*** (e.g. `score`).
 > It will return ***live score updates*** of the ongoing match.
+
+---
+**caution:** The sandbox might not work because it is free trial version. To test the BOT you can ping me.
